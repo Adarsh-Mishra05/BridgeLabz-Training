@@ -21,6 +21,6 @@ public class ReplaceWord{
 	// main method
 	public static void main(String args[]){
 		
-		System.out.print(replaceWord("hi abc words priyanshu abc","abc","def"));
+		System.out.print(replaceWord("hi ab words Adarsh abc","ab","xy"));
 	}
 }
