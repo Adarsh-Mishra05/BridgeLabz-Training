@@ -14,6 +14,31 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Practiced Git workflow and version control
 - Solved basic Java programs to understand syntax
 - Committed and pushed Java files
-- Code Link: [program-prerequisites](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisties
+- Code Link: [program-prerequisites](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisties)
 
+---
+###  Day 3 – Programming Elements in Java
+**Date:** 18-Dec-2025  
+- Learned variables, data types, operators, user input/output
+- Solved practice problems
+- Pushed solutions to GitHub
+- Code Link: [Programming Elements](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+---
+### Day 4 - Control Flow
+**Date:** 19-Dec-2025
+- Practiced `if`, `else`, `switch`, and loops
+- Implemented decision-making programs
+- Code Link: [Control Flow] (https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+---
+### Day 5 – Arrays
+**Date:** 20-Dec-2025
+- Learned array declaration, traversal, and operations
+- Solved student marks and frequency problems
+- Code Link: [Arrays] (https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+---
+### Day 6 – String LevelOne
+**Date:** 21-Dec-2025
+- Explored String, Exception Handing, Error, and try -catch
+- practice Error Handling in String and IndexBound Exception
+- Code Link: [String] (https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
 ---
