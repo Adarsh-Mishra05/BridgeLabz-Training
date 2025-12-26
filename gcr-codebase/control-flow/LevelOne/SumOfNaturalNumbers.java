@@ -1,16 +1,19 @@
 import java.util.Scanner;
+
 public class SumOfNaturalNumbers {
     public static void main(String[] args) {
 
         // Creating Scanner object to take input
         Scanner sc = new Scanner(System.in);
+
         // Taking input value of n
         int n = sc.nextInt();
 
-        // Checking the number is a Natural number or not 
+        // Checking whether the number is a Natural number
         if (n <= 0) {
             System.out.println("Please enter a natural number.");
         } else {
+
             // Sum using while loop
             int sumWhile = 0;
             int i = 1;
@@ -19,6 +22,7 @@ public class SumOfNaturalNumbers {
                 sumWhile = sumWhile + i;
                 i++;
             }
+
             // Sum using formula n*(n+1)/2
             int sumFormula = n * (n + 1) / 2;
 
