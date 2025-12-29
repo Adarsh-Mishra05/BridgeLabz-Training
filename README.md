@@ -52,7 +52,7 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 [Extras](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)  
 
 ---
-### Day 8 – Scenario Based questions  
+### Day 8 – Strings questions  
 **(Date: 23-Dec-2025)**
 
 - Applied learned concepts to scenario-based problems.
@@ -60,5 +60,15 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 
 [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase/Week-01)
   
+---
+
+### Day 9 – Scenario Based Question with Leetcode  
+**(Date: 24-Dec-2025)**
+
+- Did 2 leetcode questions
+- Did 2 Scenario based question (easy)
+
+ [Scenario Based] (https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase/Week-01)
+
 ---
 
