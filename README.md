@@ -36,9 +36,20 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Solved student marks and frequency problems
 - Code Link: [Arrays] (https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 ---
-### Day 6 – String LevelOne
+### Day 6 – Strings
 **Date:** 21-Dec-2025
 - Explored String, Exception Handing, Error, and try -catch
 - practice Error Handling in String and IndexBound Exception
 - Code Link: [String] (https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
 ---
+### Day 7 – Methods & Reusable Logic  
+**(Date: 21-Dec-2025)**
+
+- Learned to create and use Java methods.
+- Practiced parameter passing and return types.
+- Solved utility problems to reinforce method-based logic.
+
+[Extras](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)  
+
+---
+
