@@ -81,3 +81,12 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/WEEK%201) 
 
 ---
+### Day 11 – Object Oriented programming with Constructors
+**(Date: 27-Dec-2025)**
+
+- Did some OOPS constructors
+- Did 3 Scenario based question (easy)
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/levelone) 
+
+---
