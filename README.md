@@ -52,4 +52,13 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 [Extras](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)  
 
 ---
+### Day 8 – Scenario Based questions  
+**(Date: 23-Dec-2025)**
+
+- Applied learned concepts to scenario-based problems.
+- Solved small projects like games, BMI calculator, and other real-world examples.
+
+[Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase/Week-01)
+  
+---
 
