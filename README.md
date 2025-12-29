@@ -28,19 +28,19 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 **Date:** 19-Dec-2025
 - Practiced `if`, `else`, `switch`, and loops
 - Implemented decision-making programs
-- Code Link: [Control Flow] (https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+- Code Link: [Control Flow](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 ---
 ### Day 5 – Arrays
 **Date:** 20-Dec-2025
 - Learned array declaration, traversal, and operations
 - Solved student marks and frequency problems
-- Code Link: [Arrays] (https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+- Code Link: [Arrays](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 ---
 ### Day 6 – Strings
 **Date:** 21-Dec-2025
 - Explored String, Exception Handing, Error, and try -catch
 - practice Error Handling in String and IndexBound Exception
-- Code Link: [String] (https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
+- Code Link: [String](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
 ---
 ### Day 7 – Methods & Reusable Logic  
 **(Date: 21-Dec-2025)**
@@ -68,7 +68,7 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Did 2 leetcode questions
 - Did 2 Scenario based question (easy)
 
- [Scenario Based] (https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase/Week-01)
+ [Scenario Based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase/Week-01)
 
 ---
 
@@ -78,7 +78,7 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Did some basic OOPS questions
 - Did 3 Scenario based question 
 
- [Link] (https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects)
+ [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects)
 
 ---
 ### Day 11 – Constructors
@@ -87,7 +87,7 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Did some OOPS constructors
 - Did 3 Scenario based question 
 
- [Link] (https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1 )
+ [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1 )
 
 ---
 ### Day 12 – Scenario based questions
