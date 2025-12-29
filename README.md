@@ -72,3 +72,12 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 
 ---
 
+### Day 10 – Object Oriented programming  
+**(Date: 26-Dec-2025)**
+
+- Did some basic OOPS questions
+- Did 3 Scenario based question 
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/WEEK%201) 
+
+---
