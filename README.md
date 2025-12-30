@@ -30,11 +30,11 @@
 
 ---
 ### Day 13 –OOPS Design with Scenario-based questions
-**(Date: 29-Dec-2025)**
+**(Date: 30-Dec-2025)**
 
 - Did 3 scenario based questions
-- 2 Solved GCR of OOPS Design
+- Solved GCR of OOPS Design
 
- [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase/Week-02) 
+ [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling) 
 
 ---
