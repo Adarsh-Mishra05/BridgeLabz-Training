@@ -1,6 +1,6 @@
 package com.classandobjects.level1;
-
-public class Circle {
+import java.util.Scanner;
+public class circle {
 	 
 	 // Attribute
     double radius;
@@ -24,7 +24,7 @@ public class CircleDemo {
         Scanner sc = new Scanner(System.in);
 
         // Create object of Circle
-        Circle c = new Circle();
+        circle c = new circle();
 
         // Take radius input
         System.out.print("Enter radius of the circle: ");
