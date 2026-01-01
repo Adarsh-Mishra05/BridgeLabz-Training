@@ -1,54 +1,46 @@
 package com.inheritance.AnimalHierarchy;
 
-import com.inheritance.Animal;
-import com.inheritance.Bird;
-import com.inheritance.Cat;
-import com.inheritance.Dog;
+// Base class
+class BaseAnimal {
+    String name;
+    int age;
 
+    void makeSound() {
+        System.out.println("Animals make sound");
+    }
+}
 
-	class Animal{
-		String name;
-		int age;
-		
-		void makeSound() {
-			System.out.println("Animals make sound");
-		}
-	}
+// Child classes
+class Dog extends BaseAnimal {
+    void makeSound() {
+        System.out.println("Dog makes sound");
+    }
+}
 
-	class Dog extends Animal{
-		void makeSound() {
-			System.out.println("Dog make sound");
-		}
-	}
+class Cat extends BaseAnimal {
+    void makeSound() {
+        System.out.println("Cat makes sound");
+    }
+}
 
-	class Cat extends Animal{
-		void makeSound() {
-			System.out.println("Cat make sound");
-		}
-	}
+class Bird extends BaseAnimal {
+    void makeSound() {
+        System.out.println("Bird makes sound");
+    }
+}
 
-	class Bird extends Animal{
-		void makeSound() {
-			System.out.println("Bird make sound");
-		}
-	}
+// Main class (ONLY public class)
+public class Animal {
+    public static void main(String[] args) {
 
-	public class Animal{
+        Bird bird = new Bird();
+        Cat cat = new Cat();
+        Dog dog = new Dog();
+        BaseAnimal animal = new BaseAnimal();
 
-		public static void main(String[] args) {
-			// TODO Auto-generated method stub
-			
-			Bird bird = new Bird();
-			Cat cat = new Cat();
-			Dog dog = new Dog();
-			Animal animal = new Animal();
-			
-			bird.makeSound();
-			cat.makeSound();
-			dog.makeSound();
-			animal.makeSound();
-
-		}
-	
-
+        bird.makeSound();
+        cat.makeSound();
+        dog.makeSound();
+        animal.makeSound();
+    }
 }
