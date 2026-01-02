@@ -115,4 +115,13 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
  [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance) 
 
 ---
+### Day 15 – Encapsulation and Scenario based questions 
+**(Date: 1-Jan-2026)**
+
+- Did OOPS questions and learned about Encapsulation 
+- Completed 4 OOPs based scenario based questions
+
+ [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation) 
+
+---
 ---
