@@ -106,5 +106,13 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Solved GCR of OOPS Design
 
  [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling) 
+### Day 14 – Inheritance and Scenario based questions 
+**(Date: 31-Dec-2025)**
 
+- Did 5 scenario based questions
+- Did some java OOPs questions on inheritance
+
+ [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance) 
+
+---
 ---
