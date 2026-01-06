@@ -150,3 +150,11 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
  [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/JavaScenarioBased/src/com/Week1) 
 
 ---
+### Day 18 - Worked On 'java-dsa-practice' branch
+**Date:** 03-jan-2026
+- practice LinkedList problems
+- Studied core concepts of linkedlist like singly Linkedlist, doublyLinkedlist.
+- Implemented the circularLinkedlist and Solve related problems.
+- Solved Problems like 'RoundRobin problem' , 'LibraryManagement.'
+- code link [LinkedList](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/Linkedlist)
+---
