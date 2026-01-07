@@ -89,7 +89,25 @@
 
 ---
 ### Day 19 – Object Oriented programming scenario based questions
-**(Date: 4-Jan-2026)**
+**(Date: 5-Jan-2026)**
+
+- Worked on java-oops-practice branch
+- Solved problems in the Scenario Based Folder.
+
+ [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/JavaScenarioBased/src/com/Week2) 
+
+---
+### Day 20 – Object Oriented programming scenario based questions
+**(Date: 6-Jan-2026)**
+
+- Worked on java-oops-practice branch
+- Solved problems in the Scenario Based Folder.
+
+ [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/JavaScenarioBased/src/com/Week2) 
+
+---
+### Day 20 – Object Oriented programming scenario based questions
+**(Date: 7-Jan-2026)**
 
 - Worked on java-oops-practice branch
 - Solved problems in the Scenario Based Folder.
