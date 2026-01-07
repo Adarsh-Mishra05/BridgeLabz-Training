@@ -79,3 +79,12 @@
  [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/JavaScenarioBased/src/com/Week1) 
 
 ---
+### Day 18 – Object Oriented programming scenario based questions
+**(Date: 4-Jan-2026)**
+
+- Worked on java-oops-practice branch
+- Solved 2  problems in the Scenario Based Folder.
+
+ [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/JavaScenarioBased/src/com/Week2) 
+
+---
