@@ -11,6 +11,6 @@ public class Instructor extends User {
     }
 
     public void assignQuiz(Learner learner, Quiz quiz) {
-        learner.receiveQuiz();
+        learner.receiveQuiz(quiz);
     }
 }
