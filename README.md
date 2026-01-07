@@ -175,3 +175,11 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Solved Problems like 'Two Sum' using HashSet, 'SubArray' program.
 - code link [HashMap](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/hashmapandhashfunctions)
 ---
+### Day 20 - Worked On 'java-dsa-practice' and 'java-oops-practice' branch
+**Date:** 04-jan-2026
+- practice LinkedList problems
+- Studied core concepts of linkedlist like singly Linkedlist, doublyLinkedlist.
+- Implemented the circularLinkedlist and Solve related problems.
+- Solved Problems like 'RoundRobin problem' , 'LibraryManagement.'
+- code link [LinkedList](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/Linkedlist)
+---
