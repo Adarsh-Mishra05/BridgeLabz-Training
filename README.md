@@ -2,6 +2,7 @@
 # BridgeLabz Training Progress Log
 This repository tracks my daily learning journey during the BridgeLabz Java Full Stack Program. Each day includes Git/GitHub activities, Java concepts, and committed code links.
 ---
+# Week 1 = core - java - practice
 ### Day 1 – Git & GitHub Setup
 **Date:** 16-Dec-2025
 - Installed and configured Git
@@ -72,6 +73,7 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
  [Scenario Based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase/Week-01)
 
 ---
+# Week 2 = java - oops - practice
 
 ### Day 10 – Object Oriented programming  
 **(Date: 26-Dec-2025)**
@@ -150,6 +152,7 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
  [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/JavaScenarioBased/src/com/Week1) 
 
 ---
+# Week 3 = java - dsa - practice
 ### Day 18 - Worked On 'java-dsa-practice' branch
 **Date:** 04-jan-2026
 - practice LinkedList problems
@@ -176,10 +179,17 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - code link [HashMap](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/hashmapandhashfunctions)
 ---
 ### Day 20 - Worked On 'java-dsa-practice' and 'java-oops-practice' branch
-**Date:** 04-jan-2026
+**Date:** 06-jan-2026
 - practice LinkedList problems
 - Studied core concepts of linkedlist like singly Linkedlist, doublyLinkedlist.
 - Implemented the circularLinkedlist and Solve related problems.
 - Solved Problems like 'RoundRobin problem' , 'LibraryManagement.'
+- code link [LinkedList](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/Linkedlist)
+---
+### Day 21 - Worked On 'java-dsa-practice' and 'java-oops-practice' branch
+**Date:** 07-jan-2026
+- practice Searching problemsl
+- Studied core concepts of Searching Algorithms.
+- Implemented Algorithms and Solve related problems.
 - code link [LinkedList](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/Linkedlist)
 ---
