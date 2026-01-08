@@ -191,5 +191,5 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - practice Searching problemsl
 - Studied core concepts of Searching Algorithms.
 - Implemented Algorithms and Solve related problems.
-- code link [LinkedList](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/Linkedlist)
+- code link [Searching](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/binarysearch)
 ---
