@@ -106,12 +106,21 @@
  [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/JavaScenarioBased/src/com/Week2) 
 
 ---
-### Day 20 – Object Oriented programming scenario based questions
-**(Date: 7-Jan-2026)**
+### Day 21 – Object Oriented programming scenario based questions
+**(Date: 7-an-2026)**
 
 - Worked on java-oops-practice branch
 - Solved problems in the Scenario Based Folder.
 
  [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/JavaScenarioBased/src/com/Week2) 
+
+---
+### Day 22 - Worked On Scenario Based Problems
+**Date:** 08-jan-2026
+- Worked on java-oops-practice Branch
+- Solved 2 problems in the scenario Based Folder.
+- Created Solutions like '_MediStore_', '_TourMate_'...
+- Implemented Concepts like Inheritance, Interfaces and Encapsulation.
+- [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/JavaScenarioBased/src/com/Week2) 
 
 ---
