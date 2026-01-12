@@ -107,7 +107,7 @@
 
 ---
 ### Day 21 – Object Oriented programming scenario based questions
-**(Date: 7-an-2026)**
+**(Date: 7-Jan-2026)**
 
 - Worked on java-oops-practice branch
 - Solved problems in the Scenario Based Folder.
@@ -116,11 +116,23 @@
 
 ---
 ### Day 22 - Worked On Scenario Based Problems
-**Date:** 08-jan-2026
+**(Date: 8-Jan-2026)**
 - Worked on java-oops-practice Branch
 - Solved 2 problems in the scenario Based Folder.
 - Created Solutions like '_MediStore_', '_TourMate_'...
 - Implemented Concepts like Inheritance, Interfaces and Encapsulation.
 - [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/JavaScenarioBased/src/com/Week2) 
 
+---
+### Day 23- Worked On'java-oops-practice' branch
+**(Date: 9-Jan-2026)**
+- Solved 3 Scenerio Based Questions
+- Implemented Algorithms and Solve related problems.
+ [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/JavaScenarioBased/src/com/Week3) 
+---
+### Day 24- Worked On'java-oops-practice' branch
+**(Date: 10-Jan-2026)**
+- Solved 2 Scenerio Based Questions
+- Implemented Algorithms and Solve related problems.
+ [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/JavaScenarioBased/src/com/Week3) 
 ---
