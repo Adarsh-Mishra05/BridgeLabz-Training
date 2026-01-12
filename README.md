@@ -207,3 +207,9 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Implemented Algorithms and Solve related problems.
  [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/JavaScenarioBased/src/com/Week2) 
 ---
+### Day 24- Worked On'java-oops-practice' branch
+**Date:** 10-jan-2026
+- Solved 2 Scenerio Based Questions
+- Implemented Algorithms and Solve related problems.
+ [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/JavaScenarioBased/src/com/Week3) 
+---
