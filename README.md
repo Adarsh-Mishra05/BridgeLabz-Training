@@ -188,8 +188,16 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 ---
 ### Day 21 - Worked On 'java-dsa-practice' and 'java-oops-practice' branch
 **Date:** 07-jan-2026
-- practice Searching problemsl
+- practice Searching problems
 - Studied core concepts of Searching Algorithms.
 - Implemented Algorithms and Solve related problems.
 - code link [Searching](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/binarysearch)
+---
+
+### Day 22- Worked On 'java-dsa-practice' and 'java-oops-practice' branch
+**Date:** 08-jan-2026
+- practice RunTime problem
+- Studied core concepts of Searching Algorithms.
+- Implemented Algorithms and Solve related problems.
+ [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/JavaScenarioBased/src/com/Week1) 
 ---
