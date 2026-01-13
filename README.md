@@ -213,3 +213,25 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Implemented Algorithms and Solve related problems.
  [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/JavaScenarioBased/src/com/Week3) 
 ---
+### Day 25 worked on 'java-dsa-practice' branch
+**Date:** 11-jan-2026
+- Worked on 'scenario-based' directory in branch java-dsa-practice
+- Solved 3 Scenario Based problems.
+- Used various Data structure stacks like linkedlist and queue.
+- Solved problems like '_BookSelf_', '_BrowserBuddy_' and '_AmbulanceRoute_'.
+- code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
+---
+### Day 26 worked on 'java-dsa-practice' 
+**Date:** 12-jan-2026
+- worked on 'scenario-based' directory in branch java-dsa-practice
+- Solved 3 Scenario Based problem.
+- Used Various Data Structure like HashMap, stack, circularLinkedlist,
+- Solved problems like '_TextEditor_', '_TrafficManager_', 'TrainCompanion'.
+- code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
+---
+- ### Day 27 worked on 'java-dsa-practice' 
+**Date:** 13-jan-2026
+- worked on 'scenario-based' directory in branch java-dsa-practice
+- Solved 4 Scenario Based problem.
+- Used Various Data Structure like HashMap, stack, circularLinkedlist,
+- code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
