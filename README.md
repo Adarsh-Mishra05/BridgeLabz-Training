@@ -49,3 +49,10 @@ This branch tracks my progress log of Data Structures.
 - Solved Problems like 'RemoveDuplicates', 'Sentence Search' Peak Element.
 - code link [Linear Search](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/linearsearch)
 ---
+### Day 23 Worked on 'java-dsa-practice' branch
+**Date:** 08-Jan-2026
+- Practice Linear and Binay Search Algorithm
+- Implemented various Searching Algorithm like '_linearSearch_', '_BinarySearch_', and various functions like '_StringBuffer_', '_StringBuilder_' and More...
+- Solved Problems like 'RemoveDuplicates', 'Sentence Search' Peak Element.
+- code link [Binary Search](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/binarysearch)
+---
