@@ -26,12 +26,26 @@ This branch tracks my progress log of Data Structures.
 - Solved Problems like 'Two Sum' using HashSet, 'SubArray' program.
 - code link [HashMap](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/hashmapandhashfunctions)
 ---
-### Day 18 – Sorting Algorithms (DSA)
+### Day 19 – Sorting Algorithms (DSA)
 **(Date: 5-Jan-2026)**
 
 - Learned sorting algos
 - Solved 5 Sorting qns
 
- [Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/sorting) 
+- code link[Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/sorting) 
 
+---
+
+**Date:** 06-Jan-2026
+- Practice Sorting Algorithm
+- Implemented various sorting Algorithm like '_Bubble Sort_', '_Quick Sort_', '_Merge Sort_', '_Selection Sort_' and More...
+- Solved Problems like 'Sorting Student Marks', 'Sorting Student Age' Sorted Employee ID.
+- code link [Sorting Algorithm](https://github.com/harsh-vardhan36/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/com/src/com/sortingAlgorithm)
+---
+### Day 22 Worked on 'java-dsa-practice' branch
+**Date:** 07-Jan-2026
+- Practice Linear and Binay Search Algorithm
+- Implemented various Searching Algorithm like '_linearSearch_', '_BinarySearch_', and various functions like '_StringBuffer_', '_StringBuilder_' and More...
+- Solved Problems like 'RemoveDuplicates', 'Sentence Search' Peak Element.
+- code link [Linear Search](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/linearsearch)
 ---
