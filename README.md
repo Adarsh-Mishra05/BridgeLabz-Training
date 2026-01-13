@@ -64,3 +64,11 @@ This branch tracks my progress log of Data Structures.
 - Solved Problems like 'String Concatenation ', 'Search COmparison' 'Sorting comparison'.
 - code link [Runtime Analysis](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/stringbuilder)
 ---
+### Day 26 worked on 'java-dsa-practice' branch
+**Date:** 11-jan-2026
+- Worked on 'scenario-based' directory in branch java-dsa-practice
+- Solved 3 Scenario Based problems.
+- Used various Data structure stacks like linkedlist and queue.
+- Solved problems like '_BookSelf_', '_BrowserBuddy_' and '_AmbulanceRoute_'.
+- code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
+---
