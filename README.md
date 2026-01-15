@@ -86,3 +86,11 @@ This branch tracks my progress log of Data Structures.
 - Solved 2 Scenario Based problem.
 - Used Various Data Structure like HashMap, stack, circularLinkedlist,
 - code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
+
+---
+### Day 29 worked on 'java-dsa-practice' 
+**Date:** 15-jan-2026
+- worked on 'scenario-based' directory in branch java-dsa-practice
+- Solved 3 Scenario Based problem.
+- Used Various Algorithms like Bubble Sort, Merge Sort.
+- code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
