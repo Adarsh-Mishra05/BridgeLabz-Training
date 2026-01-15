@@ -79,3 +79,10 @@ This branch tracks my progress log of Data Structures.
 - Used Various Data Structure like HashMap, stack, circularLinkedlist,
 - Solved problems like '_TextEditor_', '_TrafficManager_', 'TrainCompanion'.
 - code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
+---
+### Day 28 worked on 'java-dsa-practice' 
+**Date:** 13-jan-2026
+- worked on 'scenario-based' directory in branch java-dsa-practice
+- Solved 2 Scenario Based problem.
+- Used Various Data Structure like HashMap, stack, circularLinkedlist,
+- code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
