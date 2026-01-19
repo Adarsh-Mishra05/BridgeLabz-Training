@@ -235,7 +235,7 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Solved 4 Scenario Based problem.
 - Used Various Data Structure like HashMap, stack, circularLinkedlist,
 - code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
----
+
 ---
 - ### Day 28 worked on 'java-dsa-practice' 
 **Date:** 14-jan-2026
@@ -243,3 +243,12 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Solved 2 Scenario Based problem.
 - Used Various Data Structure like linkedlist, stack, queue
 - code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
+---
+### Day 29 worked on 'java-dsa-practice' 
+**Date:** 15-jan-2026
+- worked on 'scenario-based' directory in branch java-dsa-practice
+- Solved 5 more Scenario Based problem.
+- Used Various Data Structure like BubbleSorting, MergeSort, divide&Conquer technique" and more...
+- Solved problems like '_HospitalQueue_', '_SmartSelf_', '_zipzipMart_',_EventManager_ and _ExamCell_.
+- code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
+---
