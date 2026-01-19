@@ -252,3 +252,11 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Solved problems like '_HospitalQueue_', '_SmartSelf_', '_zipzipMart_',_EventManager_ and _ExamCell_.
 - code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
 ---
+### Day 30 worked on 'java-dsa-practice' 
+**Date:** 16-jan-2026
+- worked on 'scenario-based' directory in branch java-dsa-practice
+- Solved 3 more Scenario Based problem.
+- Used Various Data Structure like BubbleSort, MergeSort, divide&Conquer technique" and more...
+- Solved problems like '_RoboWareHouse_', '_CinemaHouse_', '_cropMonitor_'.
+- code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
+---
