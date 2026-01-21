@@ -1,4 +1,3 @@
-
 # BridgeLabz Training Progress Log
 This repository tracks my daily learning journey during the BridgeLabz Java Full Stack Program. Each day includes Git/GitHub activities, Java concepts, and committed code links.
 ---
@@ -267,4 +266,15 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Used Various Data Structure like BubbleSort, MergeSort, divide&Conquer technique" and more...
 - Solved problems like '_ArtExpo_', '_FleetManager_', '_IceCreamRush_', ''_SmartLibrary_'.
 - code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
+---
+# Week 4 = java - collections - practice
+---
+### Day 32 – Java Generics
+**Date:** 18-jan-2026
+- Worked on java Generics in branch **java-collections-practice**
+- Learn about **type safety**, **reusability**, and **maintainability** in java
+- Learn about Upper Lower Bound wildCard '< ? >' for read only access.
+- Implemented 5 program in java generics
+- Solved problems like _SmartWareHouse Management_ , _Personalized Meal Plan Generator_ , _Multi-level Course_ and more...
+- code link[Generics](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
 ---
