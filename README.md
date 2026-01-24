@@ -278,3 +278,10 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Solved problems like _SmartWareHouse Management_ , _Personalized Meal Plan Generator_ , _Multi-level Course_ and more...
 - code link[Generics](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
 ---
+### Day 33 – Java Generics 
+**Date:** 19-jan-2026
+- Worked on java Generics in branch **java-collections-practice**
+- Implemented 4 program in java generics
+- code link[Generics](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
+---
+
