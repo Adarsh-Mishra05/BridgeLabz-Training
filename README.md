@@ -276,12 +276,19 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Learn about Upper Lower Bound wildCard '< ? >' for read only access.
 - Implemented 5 program in java generics
 - Solved problems like _SmartWareHouse Management_ , _Personalized Meal Plan Generator_ , _Multi-level Course_ and more...
-- code link[Generics](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
+- code link[Generics](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/Generics)
 ---
 ### Day 33 – Java Generics 
 **Date:** 19-jan-2026
 - Worked on java Generics in branch **java-collections-practice**
 - Implemented 4 program in java generics
-- code link[Generics](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
+- code link[Generics](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/Generics)
 ---
+### Day 34 - java Streams on branch 'java-collections-practice'
+**Date:** 20-jan-2026
+- worked on java streams 
+- Learn about File Handling, Buffered Streams, ByteArray Streams
+- Implemented 10 programs on java streams
+- code link[Generics](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/Generics)
+--- 
 
