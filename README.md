@@ -1,115 +1,81 @@
+# Java Collections
 
-# BridgeLabz-Training
-This branch tracks my progress log of Data Structures.
-
-### Day 16 - Worked On 'java-dsa-practice' branch
-**Date:** 03-jan-2026
-- practice LinkedList problems
-- Studied core concepts of linkedlist like singly Linkedlist, doublyLinkedlist.
-- Implemented the circularLinkedlist and Solve related problems.
-- Solved Problems like 'RoundRobin problem' , 'LibraryManagement.'
-- code link [LinkedList](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/Linkedlist)
+## Week 5 : Introduction to Generics And Iterable Interface 
+--- ---
+###  Day 1 - Java Generics
+**Date:** 15-Jan-2026
+* Studied the basics of Generics.
+* Learnt their purpose and usecases.
+* Practiced problems based on Generics.
+* Committed and pushed solutions to the repository.
+* View Code : [Generics](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/Generics)
 ---
-### Day 17 - Worked On 'java-dsa-practice'
-**Date:** 04-jan-2026
-- Practice Stack program
-- Implemented '_Recursion_' , '_span_' in stack.
-- code link [Stack](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/stackandqueue)
+###  Day 2 - Java Collections
+**Date:** 16-Jan-2026
+* Studied the basics of Collections.
+* Studied the hierarchy of different interfaces and classes.
+* Learnt how the collections made programming efficient.
+* Committed and pushed solutions to the repository.
+* View Code : [Collections](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/collections)
 ---
-**Date:** 04-jan-2026
-- Practice Queue Proogram
-- Implemented Queue using Stack, Greedy Approach in Queue.
-- code link [Queue](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/stackandqueue)
+###  Day 3 - Java Collections
+**Date:** 17-Jan-2026
+* Studied the advanced concepts of Collections.
+* Studied the hierarchy of different interfaces and classes.
+* Learnt how the collections are used in real world problems.
+* Committed and pushed solutions to the repository.
+* View Code : [Collections](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/collections)
 ---
-**Date:** 04-jan-2026
-- Practice HashMap program.
-- Solved Problems like 'Two Sum' using HashSet, 'SubArray' program.
-- code link [HashMap](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/hashmapandhashfunctions)
 ---
-### Day 19 – Sorting Algorithms (DSA)
-**(Date: 5-Jan-2026)**
-
-- Learned sorting algos
-- Solved 5 Sorting qns
-
-- code link[Link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/sorting) 
-
+## Week 6 : Advance concepts 
 ---
-
-**Date:** 06-Jan-2026
-- Practice Sorting Algorithm
-- Implemented various sorting Algorithm like '_Bubble Sort_', '_Quick Sort_', '_Merge Sort_', '_Selection Sort_' and More...
-- Solved Problems like 'Sorting Student Marks', 'Sorting Student Age' Sorted Employee ID.
-- code link [Sorting Algorithm](https://github.com/harsh-vardhan36/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/com/src/com/sortingAlgorithm)
+###  Day 1 -  Java Streams
+**Date:** 19-Jan-2026
+* Studied different types of streams.
+* Operations performed over streams.
+* Learnt how to manipulate data using streams.
+* practiced problems.
+* Committed and pushed solutions to the repository.
+* View Code : [Streams ](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/javastreams)
 ---
-### Day 22 Worked on 'java-dsa-practice' branch
-**Date:** 07-Jan-2026
-- Practice Linear and Binay Search Algorithm
-- Implemented various Searching Algorithm like '_linearSearch_', '_BinarySearch_', and various functions like '_StringBuffer_', '_StringBuilder_' and More...
-- Solved Problems like 'RemoveDuplicates', 'Sentence Search' Peak Element.
-- code link [Linear Search](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/linearsearch)
+###  Day 2 - Exceptions.
+**Date:** 20-Jan-2026
+* Studied different types of Exceptions.
+* Operations performed over different types of exceptions.
+* Learnt how to handle exceptions.
+* practiced problems.
+* Committed and pushed solutions to the repository.
+* View Code : [Exceptions](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/exceptionalhandling)
 ---
-### Day 23 Worked on 'java-dsa-practice' branch
-**Date:** 08-Jan-2026
-- Practice Linear and Binay Search Algorithm
-- Implemented various Searching Algorithm like '_linearSearch_', '_BinarySearch_', and various functions like '_StringBuffer_', '_StringBuilder_' and More...
-- Solved Problems like 'RemoveDuplicates', 'Sentence Search' Peak Element.
-- code link [Binary Search](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/binarysearch)
+###  Day 3 - Regex & Junit
+**Date:** 21-Jan-2026
+* Studied about pattern matching and different operations using Regex.
+* Learnt how to use JUnit for testing.
+* Performed different operations with the help of regular expressions.
+* Committed and pushed solutions to the repository.
+* View Code : [REGEX](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/regex)
+* View Code : [JUnit](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/junit)
 ---
-### Day 24 Worked on 'java-dsa-practice' branch
-**Date:** 09-Jan-2026
-- Practice Runtime Analysis of Algorithm
-- Implemented various Searching and Sorting Algorithm like '_linearSearch_', '_BinarySearch_', _MergerSort_', '_QuickSort_' and More...
-- Compare between different Algorithms on their runtime.
-- Solved Problems like 'String Concatenation ', 'Search COmparison' 'Sorting comparison'.
-- code link [Runtime Analysis](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/JavaDSAConcepts/src/stringbuilder)
+###  Day 4 -  Annotations & Reflection
+**Date:** 22-Jan-2026
+* Studied different types of Annotations and their use cases.
+* Learnt about reflections.
+* Performed different operations.
+* Committed and pushed solutions to the repository.
+* View Code : [ANNOTATION](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/annotations)
+* View Code : [Reflection](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/reflection)
 ---
-### Day 26 worked on 'java-dsa-practice' branch
-**Date:** 11-jan-2026
-- Worked on 'scenario-based' directory in branch java-dsa-practice
-- Solved 3 Scenario Based problems.
-- Used various Data structure stacks like linkedlist and queue.
-- Solved problems like '_BookSelf_', '_BrowserBuddy_' and '_AmbulanceRoute_'.
-- code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
+###  Day 5 -  Scenario-Based Problems.
+**Date:** 23-Jan-2026
+* Solved 5 scenario-based problems involving Collections, Generics, I/O Streams, and Regex.
+* Modelled theory concepts into real world problems.
+* Committed and pushed solutions to the repository.
+* View Code : [Scenario-based ](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/reflection)
 ---
-### Day 27 worked on 'java-dsa-practice' 
-**Date:** 12-jan-2026
-- worked on 'scenario-based' directory in branch java-dsa-practice
-- Solved 3 Scenario Based problem.
-- Used Various Data Structure like HashMap, stack, circularLinkedlist,
-- Solved problems like '_TextEditor_', '_TrafficManager_', 'TrainCompanion'.
-- code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
----
-### Day 28 worked on 'java-dsa-practice' 
-**Date:** 13-jan-2026
-- worked on 'scenario-based' directory in branch java-dsa-practice
-- Solved 2 Scenario Based problem.
-- Used Various Data Structure like HashMap, stack, circularLinkedlist,
-- code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
-
----
-### Day 29 worked on 'java-dsa-practice' 
-**Date:** 15-jan-2026
-- worked on 'scenario-based' directory in branch java-dsa-practice
-- Solved 3 Scenario Based problem.
-- Used Various Algorithms like Bubble Sort, Merge Sort.
-- code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
-
----
-
-### Day 30 worked on 'java-dsa-practice' 
-**Date:** 16-jan-2026
-- worked on 'scenario-based' directory in branch java-dsa-practice
-- Solved 3 more Scenario Based problem.
-- Used Various Data Structure like BubbleSort, MergeSort, divide&Conquer technique" and more...
-- Solved problems like '_RoboWareHouse_', '_CinemaHouse_', '_cropMonitor_'.
-- code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
----
-### Day 31 worked on 'java-dsa-practice' 
-**Date:** 17-jan-2026
-- worked on 'scenario-based' directory in branch java-dsa-practice
-- Solved 4 more Scenario Based problem.
-- Used Various Data Structure like BubbleSort, MergeSort, divide&Conquer technique" and more...
-- Solved problems like '_ArtExpo_', '_FleetManager_', '_IceCreamRush_', ''_SmartLibrary_'.
-- code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week1)
+###  Day 6 -  Scenario-Based Problems.
+**Date:** 24-Jan-2026
+* Solved 5 scenario-based problems involving Collections, Generics, I/O Streams, and Regex.
+* Modelled theory concepts into real world problems.
+* Committed and pushed solutions to the repository.
+* View Code : [Scenario-Based ](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/reflection)
 ---
