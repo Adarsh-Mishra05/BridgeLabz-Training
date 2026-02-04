@@ -9,7 +9,7 @@ This repository track my learning journey of iostreams branch.
 - Implemented concepts like writing in csv files, reading csv files, parsing csv data and data validation.
 - Solved 15 problems in CSV directories.
 - Created Solutions like : _Read a CSV File and Print Data_ , _Read and Count Rows in a CSV File_ , _Modify a CSV File_ and more...
-- code link [CSV](hhttps://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/com/src/main/java/com)
+- code link [CSV](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/com/src/main/java/com)
 ---
 ### Day 38 - worked on java-iostreams-practice branch
 **Date:** 26-jan-2026
