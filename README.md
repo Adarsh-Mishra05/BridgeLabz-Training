@@ -291,4 +291,158 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Implemented 10 programs on java streams
 - code link[Generics](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/Generics)
 --- 
+### Day 35 - Regex & JUNIT
+**Date:** 21-jan-2026
+- worked on java-collections-practice branch
+- Learn about Regex API like: '_Pattern_' , '_matcher_' and other methods like find(), replaceall() matches()
+- Learn About JUNIT Framework, perform various testing through it. @beforeeach, @test and various other methods.
+- Solved 15 problems using Regex of different difficulty like basic and Advance.
+- Implemented Solutions of problems like usernameValidator, SSNValidator, HexColour Code and more...
+- code link [Regex](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/regex)
+  ---
+  ### JUNIT problems
+  **Date:** 22-jan-2026
+ - worked on java-collections-practice
+ - Implemented JUNIT testing in 13 problems statement
+ - Solved problems like:  _privatecalulator_, _stringutility_, _@beforeeachAnnotation_, _@aftereachAnnotation_ , _testingExceptionHandling_ and more...
+- code link [JUNIT](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/junit)
+  ---
+  ### worked on 'java-dsa-practice' 
+**Date:** 22-jan-2026
+- worked on 'scenario-based' directory in branch java-dsa-practice
+- Solved 3 more Scenario Based problem.
+- Used concepts of Binary Search Tree to solve problems.
+- Solved problems like '_universityrecord_', '_ecommerceproduct_, '_musicapp_'.
+- code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week2)
+---
+### Day 36 worked on 'java-dsa-practice' 
+**Date:** 23-jan-2026
+- worked on 'scenario-based' directory in branch java-dsa-practice
+- Solved 3 more Scenario Based problem.
+- Used concepts of AVL Tree to solve problems.
+- Solved problems like '_gamingapp_', '_onlineticketbooking_, '_hospitalqueue_'.
+- code link[scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenerio-based-codebase/DSAScenerioBased/src/Week2)
+---
+  ### Day 36 - Reflection
+  **Date:** 23-jan-2026
+ - worked on java-collection-practice branch
+ - Learned Java Reflection fundamentals and runtime class inspection Explored Class, Method, Field, Constructor APIs.
+ - Accessed private fields, methods, constructors dynamically  
+ - Created objects and invoked methods at runtime  
+ - Worked with annotations and dynamic proxies  
+ - Built mini versions of DI container, object mapper, and JSON serializer  
+ - Implemented logging and method execution timing using reflection
+ - Code link [Reflections](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/reflection)
+---
+### Day 37 - Annotations
+**Date:** 24-jan-2026
+- Worked on java-collections-practice branch
+- Learned core concepts of Java Annotations (built-in, custom, meta-annotations).
+- practiced annotations like @override, @deprecated, SuppressWarnings.
+- Solved 7 problems on Annotations
+- Implemented Reflection-based processing of annotations
+- Code link [Annotations](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/annotations)
+---
+**Date:** 25-jan-2026
+- worked on scenario-based on java-collections-practice branch
+- Implemented Concepts like Collections, Generics, and Regex
+- Solved 10 problems of scenario-based quesstions
+- Implemeted solutions of problems like DealTracker, SongVault, ResumeAnalyzer, TravelLog and more...
+- used concepts like collections, exceptionHandling, streams, Map<>, regex and more...
+- Code link [Scenerio Based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice/Java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/javastreams)
+---
+# Week 5 =  java - iostreams - practice
+---
 
+### Day 37 - worked on java-iostreams-practice branch
+**Date:** 25-jan-2026
+- worked on java-iostreams-practice branch
+- Learn about Comma Seperated File (CSV) Data Handeling.
+- Implemented concepts like writing in csv files, reading csv files, parsing csv data and data validation.
+- Solved 15 problems in CSV directories.
+- Created Solutions like : _Read a CSV File and Print Data_ , _Read and Count Rows in a CSV File_ , _Modify a CSV File_ and more...
+- code link [CSV](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/com/src/main/java/com)
+---
+### Day 38 - worked on java-iostreams-practice branch
+**Date:** 26-jan-2026
+- worked on java-iostreams-practice
+- Learn about Javascript Object Notation known as JSON file
+- Implemented Concepts like Reading JSON Data, Writing JSON Data, Parsing JSON Data, JSON Schema Validation.
+- Solved 15 problems in JSON Directories.
+- Implemented Questions like Student, Car, JSON file , JSON array and JSON to XML Format.
+- code link [JSON](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/com/src/main/java/json)
+---
+# week 6 = java8 - programming - practice
+---
+### Day 39 - worked on java8-programming-practice branch
+**Date:** 28-jan-2026
+- Worked on java8-programming-practice
+- Learn about Lambda expressions
+- Implemented concepts like Functional Interface, override, and more...
+- Solved 6 more programs of lambda expressions
+- Created solutions like : _Ecommerce_, _Filtering_, _SmartHome_...
+- Code link [Lambda Expression](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com/lambda_expressions)
+---
+### worked on Functional Interface in java8-programming-practice branch
+**Date:** 28-jan-2026
+- worked on java8-programming-practice branch
+- Learn about Functional Interface in java8.
+- Implemented concepts like Interface, Predicate<> , Function, Marker Interface.
+- Solved 15 programs on Functional Interface.
+- Created Solutions like : _Digital Payment_ , _Temperature ALert System_ , _Date Format Ulity_, _Data Tagging_ and more ...
+- Code link [Functional Interface](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com/functional_interface)
+---
+### Day 40 - worked on java8-programming-practice
+**Date:** 29-Jan-2026
+- Worked on java8-programming-practice branch
+- Learn about Stream API
+- Implemented concepts like collect, foreach, ordered Streams and  unordered Streams
+- Solved 10 programs on Streams API. 
+- Created Solution like : _Hospital Doctor Availability_ , _Stock Price Logger_, _IOT Sensor Reading_ , _Logging Transcations_ and more ...
+- code link [Stream API](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com/stream_API)
+---
+### Day 41 - worked on java8-programming-practice
+**Date:** 30-jan-2026
+- worked on java8-programming-practice
+- Learn about Collectors in java8.
+- Implemented concepts like _groupingBy()_ , _toMap()_ , _.collect_ and more ...
+- Solved 5 problems on java8 collectors.
+- Created Solutions like : _Student Result Grouping_ , _Word Frequency Counter_ , _Library Book Statistics_.
+- Code link [Collectors](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com/collectors)
+---
+### Day 42 - worked on java8-programming-practice
+**Date:** 31-jan-2026
+- worked on Workshop problem in branch java8-programming-practice
+- Revise concepts about Collectors , static method, default method, functional Interface in java8.
+- Implemented concepts like FunctionalInterface , LambdaExpressions , staticMethod , defaultMethod and more ...
+- Solved 10 problems on java8 collectors.
+- Created Solution _'Smart City Transport & Service Management System'_.
+- Code link [Workshop](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com/collectors)
+---
+### Worked on java8-programming-practice branch
+**Date** 31-jan-2026
+- worked on Scenario-Based Questions on java8 features: streamAPI
+- Implemented concepts of streamAPI to solve the problem statement.
+- Concepts used: _Filtering & Mapping_ , _Sorting & Limiting_ , _Grouping & Aggregation_ , _Conditional Matching_ and more..
+- code link [Scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com/collectors)
+---
+### week 7 = java-design-pattern-practice
+---
+### Day 43 - worked on java-design-pattern-practice branch
+**Date:** 01-feb-2026
+- worked on gcr-codebase on a new branch: java-design-pattern-practice
+- Implemented concepts of design principles like GoF patterns.
+- Created one singleton LibraryCatalog to ensure only one instance of the catalog exists to prevent inconsistencies.
+- Implemented the Factory pattern so that the system can dynamically create user types at runtime.
+- Implemented the Builder pattern to constructs Book objects with optional attributes.
+- Solved Smart University Library Management System problem statement.
+- code link [Library Management System](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com/collectors)
+---
+### Day 44 - worked on java-design-pattern-practice branch
+**Date:** 03-feb-2026
+- worked on gcr-codebase on a new branch: java-design-pattern-practice
+- Implemented concepts of Multithreading life cycle and States of thread in java.
+- Concepts learned _multi-threading_ , _Creating Threads Using Thread Class_ , _Thread Class vs Runnable Interface_ and many more...
+- Solved problems like 'Download manager', Banking System with multiple transcations and more ...
+- code link [Multithreading](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com/collectors)
+---
