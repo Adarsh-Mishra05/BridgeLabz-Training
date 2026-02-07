@@ -5,3 +5,4 @@
 .project
 bin/
 FETCH_HEAD
+.DS_Store
