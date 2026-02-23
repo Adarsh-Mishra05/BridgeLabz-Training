@@ -1,7 +1,21 @@
 # BridgeLabz Training Progress Log
-This repository tracks my daily learning journey during the BridgeLabz Java Full Stack Program. Each day includes Git/GitHub activities, Java concepts, and committed code links.
+> ## This is [my](https://github.com/harsh-vardhan36/) main branch of BridgeLabz Training. One can track my progress throughout this training, below!.
+> This repository contains the link to every branch where I have learned and pushed my code.
+---
+## Repository Branches:
+ * ### [core-java-practice](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/core-java-practice)
+ * ### [java-oops-practice](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-oops-practice)
+ * ### [java-dsa-practice](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-dsa-practice)
+ * ### [java-Collections-practice](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-collections-practice)
+ * ### [java-iostreams-practice](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-iostreams-practice)
+ * ### [java8-programming-practice](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java8-programming-practice)
+ * ### [java-design-pattern-practice](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-design-pattern-practice)
+ * ### [dbms-jdbc-practice](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/mysql-jdbc-practice-v2)
+---
 ---
 # Week 1 = core - java - practice
+> ### This repository tracks my daily learning journey during the BridgeLabz Java Full Stack Program. Each day includes Git/GitHub activities, Java concepts, and committed code links.
+---
 ### Day 1 – Git & GitHub Setup
 **Date:** 16-Dec-2025
 - Installed and configured Git
@@ -73,6 +87,7 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 
 ---
 # Week 2 = java - oops - practice
+> ### This is my Java-oops-practice Here i am Solving Object Oriented Programming programs and Scenario Based Question related to four pilliars of OOPs Concept.
 
 ### Day 10 – Object Oriented programming  
 **(Date: 26-Dec-2025)**
@@ -152,6 +167,14 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 
 ---
 # Week 3 = java - dsa - practice
+---
+> ## This branch tracks my progress log of Data Structures
+> ### Here I have learned about Linkedlist :
+> * _Singly LinkedList_ , _Doubly Linkedlist_, _Circular LinkedList_.
+> ### Learn about Sorting alogirithm:
+> * Linear Search, Binary Search
+> ### Learn about Stack, Queue, HashMap, HashSet
+---
 ### Day 18 - Worked On 'java-dsa-practice' branch
 **Date:** 04-jan-2026
 - practice LinkedList problems
@@ -269,6 +292,11 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 ---
 # Week 4 = java - collections - practice
 ---
+> ### Learn about Java Generics Framework topics include: 
+> * Generic Classes, Bounded Type Parameters,  Type safety, WildCard<T> 
+> ### Learn about Iterator, Map, Collection, and List.
+> * HashMap, HashSet, HashTable, TreeMap, ArrayList, Dequeue, stack, linkedlist.
+---
 ### Day 32 – Java Generics
 **Date:** 18-jan-2026
 - Worked on java Generics in branch **java-collections-practice**
@@ -353,6 +381,12 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 ---
 # Week 5 =  java - iostreams - practice
 ---
+---
+> ## This repository track my learning journey of iostreams branch.
+> * In this week, I learn and implemented concepts like:
+> **CSV** , **JSON**.
+> * learn about  Reading/Writing a CSV and JSON File.
+---
 
 ### Day 37 - worked on java-iostreams-practice branch
 **Date:** 25-jan-2026
@@ -373,6 +407,14 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - code link [JSON](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/com/src/main/java/json)
 ---
 # week 6 = java8 - programming - practice
+---
+> * This is my java8-programming-practice branch Here I am currently learning Java 8 Features.
+> ## Learn about Functional Interface
+> * An Interface with only one abstract class
+> ## Learn about Lambda Expression
+> * It is a way of writing concise and clear Business logic or code.
+> ### Java 8 other features include:
+> * Method references, Stream API, marker Interface, Collectors, forEach()
 ---
 ### Day 39 - worked on java8-programming-practice branch
 **Date:** 28-jan-2026
@@ -428,6 +470,18 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 ---
 ### week 7 = java-design-pattern-practice
 ---
+- Study the basic concepts of design principles and Patterns in Java.
+- Some of the most used principles are :
+  > - **OCP**: _Open For Extension Close for Modification._
+  > - **SRP**: _Single Responsibility Principle_
+  > - **DRY**: _Don't Repeat Yourself_
+  > - **KISS**: _Keep It Simple, Stupid_
+- Learn about the patterns, and some well-known patterns are:
+  > - **Singleton Pattern**
+  > - **Factory Pattern**
+  > - **Builder Pattern**
+  > - **UML Diagram**
+---
 ### Day 43 - worked on java-design-pattern-practice branch
 **Date:** 01-feb-2026
 - worked on gcr-codebase on a new branch: java-design-pattern-practice
@@ -436,7 +490,7 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Implemented the Factory pattern so that the system can dynamically create user types at runtime.
 - Implemented the Builder pattern to constructs Book objects with optional attributes.
 - Solved Smart University Library Management System problem statement.
-- code link [Library Management System](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com/collectors)
+- code link [Library Management System](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/design_pattern_practice/src/com/design_patterns/libraryManagementSystem)
 ---
 ### Day 44 - worked on java-design-pattern-practice branch
 **Date:** 03-feb-2026
@@ -444,5 +498,115 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Implemented concepts of Multithreading life cycle and States of thread in java.
 - Concepts learned _multi-threading_ , _Creating Threads Using Thread Class_ , _Thread Class vs Runnable Interface_ and many more...
 - Solved problems like 'Download manager', Banking System with multiple transcations and more ...
-- code link [Multithreading](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/java8_practice/src/com/collectors)
+- code link [Multithreading](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/design_pattern_practice/src/com/design_patterns/libraryManagementSystem/singleton)
 ---
+### Day 45 - Worked on java-design-pattern-practice branch
+**Date:** 04-feb-2026
+- Worked on gcr-codebase on the branch java-design-pattern-practice
+- Implemented the concepts of Multithreading, threading, and threading constructors.
+- Solved problem: ThreadStateMonitor used the TIMED_WAITING State in it.
+- Code link [MultiThreading](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/design_pattern_practice/src/com/multithreading)
+---
+### Day 46 - Worked on java-design-pattern-practice branch
+**Date:** 05-feb-2026
+- Worked on gcr-codebase on the branch java-design-pattern-practice
+- Implemented the concepts of Multithreading, TERMINATED State, thread method like  _Start()_: _run()_
+- Solved problems like: restaurant order, ShopJob, using these concepts
+- code link [multithreading](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/design_pattern_practice/src/com/multithreading)
+---
+### Day 47 - Worked on java-design-pattern-practice branch
+**Date:** 05-feb-2026
+- Worked on scenario-based directory on the java-design-pattern-practice branch
+- Implement a Customer class that represents a bank customer.
+- Created a driver program (Main class) that simulates multiple customers interacting with the bank concurrently.
+- Use Java's Thread class to represent customers performing transactions concurrently.
+- code link [scenario-based](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/design_pattern_practice/src/com/multithreading)
+---
+# mysql-jdbc-practice
+> ## This branch tracks my week 8 journey, during which I learned and implemented the concepts of dbms and JDBC.
+---
+## Week 8 = worked on 'mysql-jdbc-practice' branch
+---
+### Day 48 - worked on 'dbms-jdbc-practice' branch
+**Date**: 06-feb-2026
+> * learn about Database Management System
+### [Relational Database](https://www.oracle.com/in/database/what-is-a-relational-database/) 
+- IT is a type of database that stores and provides access to data points that are related to one  another.
+### learn about [mySQL](https://www.w3schools.com/MySQL/default.asp) :
+> *   Indexing in mySQL : **primary KEY** , **Unique Index**.
+> *   Table Scan (No Index):
+> * "SELECT * FROM users WHERE username = 'john';"
+> *   -- MySQL reads EVERY row sequentially             
+---
+## Day 49 - worked on 'dbms-jdbc-practice' branch
+**Date**: 07-feb-2026
+### understand the importance of **Security Best Practices**
+- Ensure Atomicity, Consistency, Isolation, and Durability (ACID).
+### **Prevent SQL Injection**
+> *   ● Always use parameterized queries or prepared statements."
+>*    ● Avoid dynamic SQL unless absolutely necessary.
+>*    ● Grant least privilege access (e.g., READ-ONLY for non-admin users).
+>*    ● Avoid using root or admin for application queries.
+---
+## Day 50 - worked on 'mysql-jdbc-practice' branch
+**Date**: 08-feb-2026
+- Implemented the Solution for :
+- > [**LibraryManagement**](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/mysql-jdbc-practice-v2/gcr-codebase/mysqlpractice/src/main/java/com/mysqlpractice/libraryManagement)
+- I have created a database named 'library_db' in which there are two tables named **_'books'_**,
+- **_'students'_**, **_'borrow_records'_**... and more!
+> * Implemented TRANSCATION
+---
+## Day 51 - worked on 'mysql-jdbc-practice' branch
+**Date**: 09-feb-2026
+- Implemented the Solution for :
+>  * [**TranscationManagement**](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/mysql-jdbc-practice-v2/gcr-codebase/mysqlpractice/src/main/java/com/mysqlpractice/transactionManagement)
+- I have created a database called **_bank_db_** in which I have created table named as **_Account_** .
+> * I have performed transcation between different accounts by using 'account_id'.
+---
+- Implemented the Solution for :
+>  * [**Employee-Management**](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/mysql-jdbc-practice-v2/gcr-codebase/mysqlpractice/src/main/java/com/mysqlpractice/EmployeeManagementSystem)
+- I have created a database called **D_employee** in which I have created table named as **_employee_** .
+> * I have performed various operations on it. Some of them are listed below:
+> * **Adding Employee**
+> * **Viewing all Employee**
+> * **Updating Salary** and more...
+- [code link](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/mysql-jdbc-practice-v2/gcr-codebase/mysqlpractice/src/main/java/com/mysqlpractice)
+---
+## Day 52 - worked on 'mysql-jdbc-practice' branch
+**Date**: 10-feb-2026
+- ### Solved M1 Mock question paper
+- > Solved 3 questions
+- Question 1: Smart Canteen Order Tracker Scenario
+> * A corporate office has a smart canteen where employees place food orders during lunch hours.
+Each order contains the employee name, food item, quantity, and price per item.
+- Question 2: Online Fitness App – Weekly Activity Analyzer
+> * An online fitness application tracks the daily step count of a user for 7 days to analyze fitness
+Performance.
+- Question 3: Course Enrollment Analyzer 
+> * A training institute wants to analyze course enrollments before publishing its annual report. 
+---
+## Day 53 - worked on 'mysql-jdbc-practice' branch
+**Date**: 11-feb-2026
+- ### Learn about [**JDBC**](https://www.tutorialspoint.com/jdbc/index.htm):
+ > * JDBC stands for Java Database Connectivity
+- Topics Covered: 
+ > * JDBC Architecture
+ > * CRUD operaations
+ >  * _prepared Statement_ vs _statement_
+- JDBC Workflow:
+> * Load Driver → Establish Connection → Create Statement →
+Execute Query → Process Results → Close Resources
+- lastly, I have established the [**database connection**](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/blob/mysql-jdbc-practice-v2/gcr-codebase/mysqlpractice/src/main/java/com/jdbc/DatabaseConnection.java) using jdbc.
+---
+## Day 54 - worked on 'mysql-jdbc-practice' branch
+**Date**: 12-feb-2026
+- ### Performed CRUD operation on database using jdbc:
+> * [**CRUD**](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/mysql-jdbc-practice-v2/gcr-codebase/mysqlpractice/src/main/java/com/jdbc/CRUD) on DB.
+- Performed Create, Read, Update, and Delete opeations.
+
+## Day 55 - worked on 'mysql-jdbc-practice' branch
+**Date**: 13-feb-2026
+- ### performed a transaction on the database using JDBC
+> * [**Transaction db**](https://github.com/Adarsh-Mishra05/BridgeLabz-Training/tree/mysql-jdbc-practice-v2/gcr-codebase/mysqlpractice/src/main/java/com/jdbc/Transcation) on DataBase.
+- Implemented SavePoint for each transaction.
+- Implemented Transaction using JDBC
